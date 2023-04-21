@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/natalinoqueba/paulino-amaral/static/css/main.9644daab.css",
+    "main.js": "/natalinoqueba/paulino-amaral/static/js/main.474214d7.js",
+    "static/media/amaral.jpeg": "/natalinoqueba/paulino-amaral/static/media/amaral.d128d462dff377765079.jpeg",
+    "index.html": "/natalinoqueba/paulino-amaral/index.html",
+    "main.9644daab.css.map": "/natalinoqueba/paulino-amaral/static/css/main.9644daab.css.map",
+    "main.474214d7.js.map": "/natalinoqueba/paulino-amaral/static/js/main.474214d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9644daab.css",
+    "static/js/main.474214d7.js"
+  ]
+}
